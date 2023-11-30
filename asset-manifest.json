@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Bhawi/static/css/main.e787dcbf.css",
+    "main.js": "/Bhawi/static/js/main.bd60675e.js",
+    "static/media/photo.jpg": "/Bhawi/static/media/photo.5d83ecd313107b8edace.jpg",
+    "index.html": "/Bhawi/index.html",
+    "main.e787dcbf.css.map": "/Bhawi/static/css/main.e787dcbf.css.map",
+    "main.bd60675e.js.map": "/Bhawi/static/js/main.bd60675e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e787dcbf.css",
+    "static/js/main.bd60675e.js"
+  ]
+}
